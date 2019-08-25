@@ -1,6 +1,6 @@
 using System;
 
-class Abstraction
+class Encapsulation
 {
    //Hiding the Implementation is Abstraction
    //Console.WriteLine - We dont know what is behind it
@@ -13,7 +13,7 @@ class Abstraction
 
     //Encapsulation make availability to child classes
     //protected int a = 10, b=20;
-    
+
     //Only DoIt is visible to other world.
     public void DoIt(){
         Addition();
