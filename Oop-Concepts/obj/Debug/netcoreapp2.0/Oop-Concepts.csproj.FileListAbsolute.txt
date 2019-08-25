@@ -1,0 +1,10 @@
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\obj\Debug\netcoreapp2.0\Oop-Concepts.csproj.CoreCompileInputs.cache
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\obj\Debug\netcoreapp2.0\Oop-Concepts.AssemblyInfoInputs.cache
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\obj\Debug\netcoreapp2.0\Oop-Concepts.AssemblyInfo.cs
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\bin\Debug\netcoreapp2.0\Oop-Concepts.deps.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\bin\Debug\netcoreapp2.0\Oop-Concepts.runtimeconfig.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\bin\Debug\netcoreapp2.0\Oop-Concepts.runtimeconfig.dev.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\bin\Debug\netcoreapp2.0\Oop-Concepts.dll
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\bin\Debug\netcoreapp2.0\Oop-Concepts.pdb
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\obj\Debug\netcoreapp2.0\Oop-Concepts.dll
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Oop-Concepts\obj\Debug\netcoreapp2.0\Oop-Concepts.pdb

@@ -6,7 +6,10 @@ namespace Oop_Concepts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Abstraction
+            //Only DoIt is visible to me
+            Abstraction abs = new Abstraction();
+            abs.DoIt();
         }
     }
 }
