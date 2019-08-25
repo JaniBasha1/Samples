@@ -1,0 +1,10 @@
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\bin\Debug\netcoreapp2.0\Hello-world.deps.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\bin\Debug\netcoreapp2.0\Hello-world.runtimeconfig.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\bin\Debug\netcoreapp2.0\Hello-world.runtimeconfig.dev.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\bin\Debug\netcoreapp2.0\Hello-world.dll
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\bin\Debug\netcoreapp2.0\Hello-world.pdb
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\obj\Debug\netcoreapp2.0\Hello-world.csproj.CoreCompileInputs.cache
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\obj\Debug\netcoreapp2.0\Hello-world.AssemblyInfoInputs.cache
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\obj\Debug\netcoreapp2.0\Hello-world.AssemblyInfo.cs
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\obj\Debug\netcoreapp2.0\Hello-world.dll
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\Hello-world\obj\Debug\netcoreapp2.0\Hello-world.pdb
