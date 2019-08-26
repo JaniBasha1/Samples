@@ -3569,11 +3569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\EF\\EF.csproj",
+      "projectUniqueName": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\EF\\EF.csproj",
       "projectName": "EF",
-      "projectPath": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\EF\\EF.csproj",
+      "projectPath": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\EF\\EF.csproj",
       "packagesPath": "C:\\Users\\jani7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\EF\\obj\\",
+      "outputPath": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\EF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
