@@ -1,0 +1,10 @@
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\obj\Debug\netcoreapp2.0\EF.csproj.CoreCompileInputs.cache
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\obj\Debug\netcoreapp2.0\EF.AssemblyInfoInputs.cache
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\obj\Debug\netcoreapp2.0\EF.AssemblyInfo.cs
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\bin\Debug\netcoreapp2.0\EF.deps.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\bin\Debug\netcoreapp2.0\EF.runtimeconfig.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\bin\Debug\netcoreapp2.0\EF.runtimeconfig.dev.json
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\bin\Debug\netcoreapp2.0\EF.dll
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\bin\Debug\netcoreapp2.0\EF.pdb
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\obj\Debug\netcoreapp2.0\EF.dll
+C:\Users\jani7\Projects\GitRepo-Samples\Samples\EF\obj\Debug\netcoreapp2.0\EF.pdb

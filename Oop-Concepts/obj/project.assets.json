@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Oop-Concepts\\Oop-Concepts.csproj",
+      "projectUniqueName": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Oop-Concepts\\Oop-Concepts.csproj",
       "projectName": "Oop-Concepts",
-      "projectPath": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Oop-Concepts\\Oop-Concepts.csproj",
+      "projectPath": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Oop-Concepts\\Oop-Concepts.csproj",
       "packagesPath": "C:\\Users\\jani7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Oop-Concepts\\obj\\",
+      "outputPath": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Oop-Concepts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

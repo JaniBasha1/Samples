@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Hello-world\\Hello-world.csproj",
+      "projectUniqueName": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Hello-world\\Hello-world.csproj",
       "projectName": "Hello-world",
-      "projectPath": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Hello-world\\Hello-world.csproj",
+      "projectPath": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Hello-world\\Hello-world.csproj",
       "packagesPath": "C:\\Users\\jani7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Hello-world\\obj\\",
+      "outputPath": "c:\\Users\\jani7\\Projects\\GitRepo-Samples\\Samples\\Hello-world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
